@@ -4,6 +4,33 @@
 
 A small DSL I wrote to teach myself Nim. It supports OOP &amp; FP, and it's Turing complete.
 
+## Example OOP Script
+
+```
+[
+    <@> this =
+    [ this =
+        # <calling init> |
+        # im a comment
+
+        < > <>> + |
+        % i this ,
+        this $
+    ] init this , 
+    
+    this $
+] obj =
+
+obj $ ! instance =
+
+instance $ init instance . ! instance =
+
+
+< your mom ;)> i instance . + |
+
+<\n> |
+```
+
 ## Installation and Usage
 ```bash
 curl https://nim-lang.org/choosenim/init.sh -sSf | sh
