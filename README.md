@@ -12,3 +12,5 @@ nim c interpreter.nim
 
 ./interpreter ../examples/demo.n
 ```
+
+All the different commands are explained and demonstrated in the examples.
