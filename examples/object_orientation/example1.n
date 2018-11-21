@@ -1,0 +1,11 @@
+
+[
+    <@> this =
+    <20> member this ,
+    this $
+] obj =
+
+obj $ ! instance =
+member instance . <5> * |
+
+<\n> |

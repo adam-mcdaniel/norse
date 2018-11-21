@@ -1,0 +1,23 @@
+
+[
+    <@> this =
+    [ this =
+        # <calling init> |
+        # im a comment
+
+        < > <>> + |
+        % i this ,
+        this $
+    ] init this , 
+    
+    this $
+] obj =
+
+obj $ ! instance =
+
+instance $ init instance . ! instance =
+
+
+< your mom ;)> i instance . + |
+
+<\n> |

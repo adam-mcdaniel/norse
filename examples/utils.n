@@ -1,0 +1,20 @@
+[ n = <48> n $ ~ - ] float =
+[ x = f = [ f $ ! <0> x = ] [ x $ ] ? ] if =
+[ ^ ] for =
+<1> true =
+<0> false =
+
+[ 
+    a =
+    b =
+
+    a $ b $ *
+    c =
+
+    c $ false $ - true $ +
+] nand =
+
+
+# [ <true> | ] false $ true $ nand $ ! if $ !
+
+<\n> |

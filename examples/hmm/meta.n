@@ -1,0 +1,60 @@
+[ ^ ] for =
+
+[ n = <48> n $ ~ - ] float =
+[ x = f = [ f $ ! <0> x = ] [ x $ ] ? ] if =
+
+<1> true =
+<0> false =
+
+
+[ 
+    a =
+    a $ false $ - true $ +
+] not =
+
+[ 
+    a = b =
+    a $ b $ +
+] or =
+
+[ 
+    a =
+    b =
+
+    a $ b $ *
+] and =
+
+
+[ 
+    and $ ! not $ !
+] nand =
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+    <this function has been called!\n> |
+] func =
+
+[
+    % input =
+
+    main $
+    [ 
+        main $ func $ +
+    ] input $ float $ ! if $ !
+    main =
+
+    main $ !
+] main =
+
+main $ !

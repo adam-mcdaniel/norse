@@ -1,0 +1,17 @@
+{"compile":[
+]
+],
+"link":[
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/datatype.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_system.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_tables.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_hashes.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_math.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_strutils.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_parseutils.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_algorithm.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_sequtils.o'",
+"'/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_macros.o'"
+],
+"linkcmd": "gcc   -o '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/datatype'  '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/datatype.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_system.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_tables.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_hashes.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_math.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_strutils.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_parseutils.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_algorithm.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_sequtils.o' '/home/adam/Documents/Book/Programming/Turing Tarpit/Nim/norse/nimcache/stdlib_macros.o'  -lm   -ldl"
+}
