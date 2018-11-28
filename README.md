@@ -2,7 +2,7 @@
 ![Norse](logo.png)
 ![Norse](name.png)
 
-A small, esoteric DSL I wrote to teach myself Nim. It supports OOP &amp; FP, and it's Turing complete.
+A small, esoteric DSL I wrote to teach myself Nim. It supports OOP and FP, and it's Turing complete.
 
 ## Example OOP Script
 
